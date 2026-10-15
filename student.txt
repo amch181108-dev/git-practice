@@ -1,7 +1,7 @@
 FIO: Chernoyarova, Shvalevа
 Gruppa: 09.07.14p2
 sispr
-
+Практическая работа по Git выполнена.
 
 
 
