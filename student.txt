@@ -3,5 +3,6 @@ Gruppa: 09.07.14p2
 sispr
 Практическая работа по Git комент два
 
-
+Освоил git merge и git log --graph.
+Понял, как отправлять ветку на GitHub через git push -u origin.
 
